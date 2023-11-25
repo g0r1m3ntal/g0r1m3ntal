@@ -3,7 +3,7 @@
 - uses: Platane/snk@v3
   with:
 
-    github_user_name: $github.g0r1m3ntal
+    github_user_name: $g0r1m3ntal
 
     outputs: |
       dist/github-snake.svg
